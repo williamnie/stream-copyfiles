@@ -1,0 +1,24 @@
+{
+  "name": "stream-copyfiles",
+  "version": "1.1.0",
+  "description": "Copy files in batches, using stream",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "homepage": "https://github.com/williamnie/stream-copyfiles.git",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/williamnie/stream-copyfiles.git"
+  },
+  "dependencies": {},
+  "keywords": [
+    "copy",
+    "files",
+    "multiple",
+    "stream",
+    "nodejs"
+  ],
+  "author": "xiaobei",
+  "license": "ISC"
+}
